@@ -1,6 +1,15 @@
 # test_ebook
 
-A new Flutter project.
+## Flutter Doctor
+[✓] Flutter (Channel stable, 3.10.5, on macOS 13.4.1 22F770820d darwin-arm64, locale pt-BR)
+[✓] Android toolchain - develop for Android devices (Android SDK version 33.0.2)
+[✓] Xcode - develop for iOS and macOS (Xcode 14.3.1)
+[✓] Chrome - develop for the web
+[✓] Android Studio (version 2022.2)
+[✓] VS Code (version 1.80.2)
+[✓] Connected device (3 available)
+[✓] Network resources
+
 
 ## Getting Started
 
